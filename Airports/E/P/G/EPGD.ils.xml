@@ -10,4 +10,14 @@
       <nav-id>IGDA</nav-id>
     </ils>
   </runway>
+  <runway>
+    <ils>
+      <lon>18.495963</lon>
+      <lat>54.370217</lat>
+      <rwy>11</rwy>
+      <hdg-deg>112.96</hdg-deg>
+      <elev-m>140.00</elev-m>
+      <nav-id>IGDB</nav-id>
+    </ils>
+  </runway>
 </PropertyList>
